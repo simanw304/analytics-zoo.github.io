@@ -29,6 +29,10 @@ body {
   padding-right: 50px;
 }
 
+.container-fluid {
+  margin-left: unset;
+}
+
 .wm-page-top-frame { display: none; }
 .wm-top-page > .wm-page-top-frame { display: block; }
 .wm-top-page > .wm-page-content { display: none; }
